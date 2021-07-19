@@ -1,0 +1,6 @@
+framework module Pods_OrderSorter_OrderSorterUITests {
+  umbrella header "Pods-OrderSorter-OrderSorterUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
